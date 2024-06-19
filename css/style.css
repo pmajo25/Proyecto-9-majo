@@ -1,0 +1,17 @@
+.bi {
+	vertical-align: -.125em;
+	fill: currentColor;
+  }
+
+  .bd-mode-toggle {
+	z-index: 1500;
+  }
+
+  .bd-mode-toggle .dropdown-menu .active .bi {
+	display: block !important;
+  }
+  .container{
+    box-shadow: 1px 1px 20px #fff5;
+  }
+
+  
